@@ -5,6 +5,7 @@
 (xterm-mouse-mode)
 (setq visible-bell t)
 (menu-bar-mode 0)
+(tool-bar-mode 0)
 (setq scroll-bar-mode nil)
 
 
